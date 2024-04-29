@@ -23,7 +23,7 @@ pip install -r requirements.txt
 ```
 
 ### 4. set envrionment variables
-#### Create a .env file in the root directory and add your Pinecone credentials as follows:
+#### Create a .env file in the root directory and add your Google Gemini API credentials as follows:
 ```ini
 GOOGLE_API_KEY = ""
 ```
