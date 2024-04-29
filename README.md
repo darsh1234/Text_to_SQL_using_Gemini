@@ -1,5 +1,7 @@
 # Text_to_SQL_using_Gemini
+## Description
 
+This project is a static web application that combines the power of the Gemini API and LangChain to create a streamlined chatbot experience for answering English questions. The application takes user input in the form of natural language questions, converts them to SQL queries using the Gemini API, and retrieves the relevant data from a connected database. The data is then presented to the user in a readable format, providing a seamless and intuitive way to interact with and query the database using natural language.
 
 ## Installation
 
